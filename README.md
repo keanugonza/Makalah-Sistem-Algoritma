@@ -12,7 +12,7 @@
 
 1. Clone repository ini pada link berikut:
     ```
-    https://github.com/keanugonza/Makalah-Sistem-Algoritma.git 
+    https://github.com/keanugonza/Makalah-Strategi-Algoritma.git 
     ```
 2. Masuk ke folder hasil clone dan buka terminal
 
